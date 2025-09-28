@@ -17,7 +17,7 @@ int main() {
         cout << angga[i] << " ";
         sums += angga[i];
     }
-    cout << "\n" << "The sums of " << digits << " are " << sums;
+    cout << "\n" << "The sums of " << digits << " of fibonacci numbers are " << sums;
     }
     else {
         cout << "Only positive integers";
