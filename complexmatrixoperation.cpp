@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-// ini buatan muhammad arifudin yazid ata, practive TVM
+// ini buatan muhammad arifudin yazid ata, practice TVM
 vector<vector<int>> matrix_op(vector<string> input, vector<vector<int>> original, int N, int M) {
     vector<vector<int>> copy = original;
     for (int i = 0; i < input.size(); i++)
